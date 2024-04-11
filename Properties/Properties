@@ -1,0 +1,5 @@
+url=https://www.mercadolibre.com.co/
+filePathExcel=./data/prueba.xlsx
+outputFile = ./output/
+rutaImagenReporte =./imagenes/Logo.png
+
